@@ -1,0 +1,3 @@
+[submodule "child"]
+	path = child
+	url = https://github.com/ajy9851/cnu_opensource_class_child.git
